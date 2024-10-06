@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @praveen-ramasamy
+- 👀 I’m interested in web development and modern technologies, particularly in creating responsive and user-friendly applications.
+- 🌱 I’m currently learning advanced concepts in JavaScript frameworks like React and exploring backend development with Node.js.
+- 💞️ I’m looking to collaborate on exciting web development projects, especially those involving innovative technology solutions.
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/praveen-ramasamy/) or follow my work on [GitHub](https://github.com/praveen-ramasamy).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy solving complex coding challenges and contributing to open-source projects. In my free time, I love exploring new technologies and keeping my skills updated!
